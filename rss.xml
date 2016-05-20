@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Christian Assembly Upstate]]></title>
         <description><![CDATA[Christian Assembly Upstate]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/christian-assembly-upstate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 04:46:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 May 2016 17:42:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/christian-assembly-upstate/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[New Here]]></title>
             <description><![CDATA[<p>Welcome!</p>]]></description>
-            <link>undefined92cc5ba5-c435-41b6-bfb1-d96c46d9964f/index.html</link>
+            <link>https://thegrid.ai/christian-assembly-upstate/92cc5ba5-c435-41b6-bfb1-d96c46d9964f/index.html</link>
             <guid isPermaLink="false">92cc5ba5-c435-41b6-bfb1-d96c46d9964f</guid>
-            <pubDate>Tue, 02 Feb 2016 04:46:15 GMT</pubDate>
+            <pubDate>Fri, 20 May 2016 17:42:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
