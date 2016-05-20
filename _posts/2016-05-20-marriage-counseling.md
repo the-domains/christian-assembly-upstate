@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'In addition to the daily radio program, Fresh Start, Pastor and Mrs. Glenda White lead marriage seminars, banquets and couples retreats in churches all across the southeast. Their powerful ministry of God’s Word promotes wholesome marriages and dynamic results have been seen as couples respond to the purpose and plan of God.'
-datePublished: '2016-05-20T20:09:10.003Z'
-dateModified: '2016-05-20T20:09:02.106Z'
+datePublished: '2016-05-20T20:10:36.950Z'
+dateModified: '2016-05-20T20:10:34.144Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-20-marriage-counseling.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-20-marriage-counseling.md
 url: marriage-counseling/index.html
 _type: WebPage
 
