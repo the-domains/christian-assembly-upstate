@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'At CAU, nothing is more important to us than the safety and security of your children. That is why we have partnered with KidCheck as our children’s check-in solution. What is KidCheck? KidCheck is a secure children’s check-in system that enhances our security system and simplifies the check-in process. KidCheck helps ensure no one can pick up your child without your consent.'
-datePublished: '2016-05-20T17:52:45.957Z'
-dateModified: '2016-05-20T17:50:00.231Z'
+datePublished: '2016-05-20T17:55:12.499Z'
+dateModified: '2016-05-20T17:52:53.075Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-20-child-safety.md
