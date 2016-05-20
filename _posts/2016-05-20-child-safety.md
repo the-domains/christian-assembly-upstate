@@ -3,20 +3,16 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-05-20T17:46:59.101Z'
-dateModified: '2016-01-31T22:04:09.817Z'
-title: Child Safety
+description: 'At CAU, nothing is more important to us than the safety and security of your children. That is why we have partnered with KidCheck as our children’s check-in solution. What is KidCheck? KidCheck is a secure children’s check-in system that enhances our security system and simplifies the check-in process. KidCheck helps ensure no one can pick up your child without your consent.'
+datePublished: '2016-05-20T17:49:56.504Z'
+dateModified: '2016-05-20T17:48:41.526Z'
+title: ''
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 sourcePath: _posts/2016-05-20-child-safety.md
+authors: []
+publisher: null
+starred: false
 url: child-safety/index.html
 _type: Article
 
@@ -27,4 +23,4 @@ If you are new to us or are planning on visiting us for the first time we encour
 
 [KidCheck\_Setup\_Instructions][0]
 
-[0]: http://caupstate.org/wp-content/uploads/2015/10/KidCheck_Setup_Instructions.pdf
+[0]: null
