@@ -1,7 +1,7 @@
 name: Christian Assembly Upstate
 favicon: null
-layout_spectrum: 0.74789
-typography_spectrum: 0.00085
+layout_spectrum: 0.05355
+typography_spectrum: 0.18231
 collections:
   - index:
       navigable: true
