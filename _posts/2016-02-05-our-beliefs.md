@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-02T02:46:02.289Z'
-dateModified: '2016-06-02T02:45:30.785Z'
+datePublished: '2016-06-02T12:49:48.196Z'
+dateModified: '2016-06-02T12:49:47.015Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-05-our-beliefs.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: our-beliefs/index.html
 _type: Article
 
