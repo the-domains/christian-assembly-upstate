@@ -1,15 +1,7 @@
-layout_spectrum: 0
-favicon: null
 name: Christian Assembly Upstate
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.99408
+typography_spectrum: 0.2765957
 collections:
   - index:
       navigable: true
@@ -23,18 +15,26 @@ collections:
     permalink:
       path: '/:title/'
 cta:
-  version: null
-  bucket: null
   domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.125
-  saturation: 0.125
   brandColors:
     - '#ffffff'
     - '#000000'
     - '#836437'
     - '#d3b486'
     - '#46c595'
+  brandStrength: 0.125
   lightness: 0.5
+  saturation: 0.125
   rhythmicContrast: 0.05355074163526297
-typography_spectrum: 0.2765957
+purpose: []
