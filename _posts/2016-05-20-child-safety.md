@@ -10,18 +10,18 @@ description: >-
   intimate atmosphere for passionate worship. Our services are Spirit-led and we
   desire for each person to genuinely experience the presence of God as we exalt
   Him together.
-datePublished: '2016-07-27T15:55:10.166Z'
-dateModified: '2016-07-27T15:53:31.617Z'
+datePublished: '2016-07-27T15:57:14.477Z'
+dateModified: '2016-07-27T15:57:05.158Z'
 sourcePath: _posts/2016-05-20-child-safety.md
 author: []
 title: Connect
+via: {}
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-via: {}
 starred: false
 url: connect/index.html
 _type: WebPage
