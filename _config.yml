@@ -28,6 +28,9 @@ navigation:
   - name: Contact Us
     id: cebcafec-6c4d-4a5d-b274-eed08a5a44bb
     type: content
+  - name: Connect
+    id: 9d982a47-2d2a-492e-aea9-e65521b66417
+    type: content
 favicon: null
 collections:
   - index:
