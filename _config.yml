@@ -1,7 +1,34 @@
-name: Christian Assembly Upstate
-favicon: null
-layout_spectrum: 0.8460418859031051
 typography_spectrum: 0.2770902970805764
+color:
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.06360294949263334
+  lightness: 0.759592805756256
+  saturation: 0.29032332566566765
+  rhythmicContrast: 0.5653577758930624
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.8460418859031051
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Christian Assembly Upstate
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Contact Us
+    id: cebcafec-6c4d-4a5d-b274-eed08a5a44bb
+    type: content
+favicon: null
 collections:
   - index:
       navigable: true
@@ -14,27 +41,4 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-  brandStrength: 0.06360294949263334
-  lightness: 0.759592805756256
-  saturation: 0.29032332566566765
-  rhythmicContrast: 0.5653577758930624
 purpose: []
