@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-17T15:04:34.909Z'
+datePublished: '2016-08-17T15:06:10.803Z'
 sourcePath: _posts/2016-08-17-contact-us.md
 inFeed: false
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-17T15:04:34.329Z'
+dateModified: '2016-08-17T15:06:10.344Z'
 title: ''
 publisher: {}
 description: EMAIL US
@@ -20,8 +20,8 @@ _type: WebPage
 ---
 **EMAIL US**
 
-* [Senior Pastor Mark White][0]
-* [Church Secretary ][1](Information)
+[Senior Pastor Mark White][0]  
+[Church Secretary ][1](Information)
 
 **CALL US**
 
