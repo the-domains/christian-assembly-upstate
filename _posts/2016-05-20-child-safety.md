@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-17T15:06:42.908Z'
+datePublished: '2016-08-17T15:07:02.777Z'
 sourcePath: _posts/2016-05-20-child-safety.md
 inFeed: false
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-17T15:06:39.674Z'
+dateModified: '2016-08-17T15:07:01.485Z'
 title: Connect
 publisher: {}
 description: >-
